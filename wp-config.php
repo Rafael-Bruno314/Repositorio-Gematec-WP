@@ -20,7 +20,6 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('REVISR_GIT_PATH', ''); // Added by Revisr
 define( 'DB_NAME', 'gematec-wp' );
 
 /** MySQL database username */
